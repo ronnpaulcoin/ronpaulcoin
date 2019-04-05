@@ -1,0 +1,4 @@
+# List of fixed seed nodes for testnet
+
+103.102.47.50
+103.102.44.160
